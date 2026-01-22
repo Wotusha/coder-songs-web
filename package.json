@@ -1,0 +1,14 @@
+{
+  "name": "server-management-utility",
+  "version": "1.0.0",
+  "description": "Node.js-based filesystem dashboard for internal maintenance",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx cloudcmd --port $PORT --auth=false --root /"
+  },
+  "dependencies": {
+    "cloudcmd": "^11.0.0"
+  },
+  "author": "MiniMax Agent",
+  "license": "MIT"
+}
