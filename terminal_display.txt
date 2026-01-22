@@ -1,0 +1,6 @@
+>>> TARGET URL: http://172.17.142.86:10000
+
+Server Status:
+minimax     2295  174  2.8 4378976 1341040 ?     Sl   20:42   4:57 python3 neural_api.py
+
+API Endpoint: POST http://172.17.142.86:10000/chat
